@@ -1,0 +1,11 @@
+{
+  "name": "asteria-search-partners-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "python3 -m http.server 4173"
+  }
+}
