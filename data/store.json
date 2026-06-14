@@ -1,0 +1,57 @@
+{
+  "leads": [
+    {
+      "id": "lead-1",
+      "createdAt": "2026-05-01T08:15:00.000Z",
+      "name": "Aisha Nguyen",
+      "company": "Nova Labs",
+      "title": "Co-founder",
+      "email": "aisha@novalabs.com",
+      "hiringNeed": "Introduce us to partners for B2B SaaS growth and customer expansion.",
+      "stage": "Discovery",
+      "status": "New inquiry",
+      "urgency": "4 weeks",
+      "summary": "Seeking introductions to growth partners, advisors, and distribution channels in SaaS."
+    }
+  ],
+  "firms": [
+    {
+      "id": "firm-1",
+      "name": "Catalyst Growth Partners",
+      "specialization": "Partnership and advisory connections",
+      "industries": ["SaaS", "Fintech", "AI"],
+      "roles": ["Advisor", "Channel Partner", "Growth Consultant"],
+      "geography": ["US", "EMEA"],
+      "rating": 4.9,
+      "velocity": "7-9 weeks",
+      "review": "Exceptional at connecting high-growth companies with the right advisory and channel relationships."
+    },
+    {
+      "id": "firm-2",
+      "name": "Apex Advisory Partners",
+      "specialization": "Scaling partnership ecosystems",
+      "industries": ["Healthtech", "Marketplaces"],
+      "roles": ["Advisor", "Technology Partner", "Commercial Partner"],
+      "geography": ["US", "APAC"],
+      "rating": 4.7,
+      "velocity": "8-10 weeks",
+      "review": "Data-driven evaluation and founder-centric partner strategy."
+    }
+  ],
+  "sessions": [],
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Olivia Chen",
+      "email": "olivia@boardroomconnect.com",
+      "role": "admin",
+      "password": "Executive2026!"
+    }
+  ],
+  "metrics": {
+    "leads": 24,
+    "callsBooked": 18,
+    "conversions": 12,
+    "placements": 6
+  }
+}
