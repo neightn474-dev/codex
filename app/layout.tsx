@@ -14,9 +14,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NexusForge — Strategic business introductions",
-  description: "A premium connector helping companies find partners, advisors, clients, and strategic growth opportunities.",
+  title: "NexusForge",
+  description: "A premium connector helping companies find strategic business partners, advisors, clients, and growth opportunities.",
   metadataBase: new URL("https://boardroomconnect.com"),
+  icons: {
+    icon: [
+      { url: "/favicon.ico" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
   openGraph: {
     title: "NexusForge",
     description: "Find the right partners, advisors, and growth opportunities with a connector-led advisory platform.",

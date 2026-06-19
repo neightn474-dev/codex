@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Contact — NexusForge",
+  title: "NexusForge",
   description: "Connect with our team to uncover partnership, advisory, and growth opportunities.",
 };
 

@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "How We Deliver — NexusForge",
+  title: "NexusForge",
   description: "How we deliver high-confidence introductions, vetting, and matchmaking services.",
 };
 
